@@ -1,4 +1,4 @@
-document.getElementById('pievienotDarbu').addEventListener('click', pogaNospiesta)
+document.getElementById('jaunsDarbs').addEventListener('click', pogaNospiesta)
 
 function pogaNospiesta(){
     console.log('Poga nospiesta!')
